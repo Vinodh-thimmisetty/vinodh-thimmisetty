@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ETL App with Apache Spark
-- 🌱 I’m currently learning Big Data - AWS
+- 🔭 I’m currently working on Opportunity generation app using Apache Spark
+- 🌱 I’ve worked on API Development using Spring Boot and Modern SPA apps built on Angular 4+ 
 - 📫 How to reach me: vinodh5052@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
